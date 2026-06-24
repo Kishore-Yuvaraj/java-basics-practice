@@ -1,3 +1,7 @@
+// Lesson 2 - Easy
+// Write a program that stores your own name, age, city, and CGPA
+// as variables with the correct data types and prints all four of them.
+// No Scanner needed. Just declare, assign, and print.
 package lesson2;
 
 public class VariablesDemo {

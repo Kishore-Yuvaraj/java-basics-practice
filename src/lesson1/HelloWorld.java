@@ -1,3 +1,5 @@
+// Lesson 1 - Easy
+// Write your first Java program that prints "Hello, World!" to the screen.
 package lesson1;
 
 public class HelloWorld {

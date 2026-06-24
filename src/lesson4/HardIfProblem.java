@@ -1,3 +1,12 @@
+// Lesson 4 - Hard
+// Write a program that takes a person's age as input and prints
+// which category they fall into:
+// below 13       = Child
+// 13 to 17       = Teenager
+// 18 to 59       = Adult (also print: Eligible to vote)
+// 60 to 100      = Senior Citizen (also print: Eligible to vote
+//                  and Eligible for senior citizen benefits)
+// anything else  = Invalid input
 package lesson4;
 
 import java.util.Scanner;

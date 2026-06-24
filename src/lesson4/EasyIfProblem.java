@@ -1,3 +1,6 @@
+// Lesson 4 - Easy
+// Write a program that takes a number as input
+// and prints whether it is positive, negative, or zero.
 package lesson4;
 
 import java.util.Scanner;

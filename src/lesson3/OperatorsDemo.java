@@ -1,3 +1,7 @@
+// Lesson 3 - Easy
+// Write a program that stores two numbers as int variables
+// and prints the result of all 5 arithmetic operators on them.
+// Also demonstrate relational and logical operators.
 package lesson3;
 
 public class OperatorsDemo {

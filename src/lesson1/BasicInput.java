@@ -1,3 +1,6 @@
+// Lesson 1 - Easy
+// Write a program that takes a person's name and age as input
+// and prints: "Hello [name], you are [age] years old."
 package lesson1;
 
 import java.util.Scanner;

@@ -1,3 +1,8 @@
+// Lesson 2 - Hard
+// Write a program that stores the price of 3 different items
+// (pen, book, bag) as double variables and calculates the total.
+// Then add a boolean variable called isBillAbove500 that is true
+// if the total is more than 500, and print that too.
 package lesson2;
 
 public class ShoppingBill {
