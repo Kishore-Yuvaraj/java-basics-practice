@@ -16,12 +16,15 @@ src/
 
 └── lesson4/        # Decision making — if, if-else, if-else-if
 
+└── lesson5/        # Looping Concepts — for, nested loop
+
 ## Topics Covered
 
 - Lesson 1: Java program structure, System.out.println, Scanner input
 - Lesson 2: int, double, char, boolean, String — variables and data types
 - Lesson 3: Arithmetic, relational, and logical operators
 - Lesson 4: if, if-else, if-else-if ladder, nested if
+- Lesson 5:Looping concepts (for loop) (Ongoing)
 
 ## Tools Used
 
