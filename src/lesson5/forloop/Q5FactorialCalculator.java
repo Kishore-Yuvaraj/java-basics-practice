@@ -6,16 +6,22 @@ public class Q5FactorialCalculator {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int factorialValue=1;
-        for(int i=n;i>0;i--){
-            factorialValue*=i;
-            if(i==1){
-                System.out.print(i+"=");
-            }
-            else{
-            System.out.print(i+"*");
-            }
+        long factorialValue=1;
+        if(n==0){
+            System.out.println(factorialValue);
         }
-        System.out.println(factorialValue);
+        else{
+            for(int i=n;i>0;i--){
+                factorialValue*=i;
+                if(i==1){
+                    System.out.print(i+"=");
+                }
+                else {
+                    System.out.print(i+"*");
+                }
+            }
+            System.out.println(factorialValue);
+        }
+        sc.close();
     }
 }
