@@ -1,3 +1,5 @@
+//2.Fibonacci Series
+//Accept N. Print the first N terms of the Fibonacci series (0, 1, 1, 2, 3, 5, 8...) on one line, space-separated.
 package lesson5.forloop;
 
 import java.util.Scanner;

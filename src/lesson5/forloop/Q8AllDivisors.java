@@ -1,3 +1,5 @@
+//3.All Divisors of N
+//Accept N. Print every divisor in ascending order. Print the total divisor count on the last line.
 package lesson5.forloop;
 
 import java.util.Scanner;
