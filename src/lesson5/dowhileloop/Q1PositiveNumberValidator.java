@@ -1,6 +1,6 @@
 //1.Positive Number Validator
 //Keep asking for a positive integer, rejecting 0 and negatives with a message. Accept only when the value is positive. Print the total attempt count.
-package lesson5.DoWhileLoop;
+package lesson5.dowhileloop;
 import java.util.Scanner;
 public class Q1PositiveNumberValidator {
     public static void main(String[] args){
